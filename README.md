@@ -27,3 +27,12 @@ alt= "Facebok"/>
 </a>
 </div>
 
+---
+
+
+Here are some ideas to get you started:
+
+- 🔭 I recently finished my studies in Argentina programa
+- 🌱 I’m currently learning 
+- ⚡ contact me at: **sepulvedamanuel501@gmail.com**
+-->
