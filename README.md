@@ -1,8 +1,17 @@
 <div
 
 <h1 aling = "center"> Hi Im , Manuel </h1>
-<h3 aling= "center">Hola! Mi nombre es Manuel Sepulveda soy una persona que trabaja de forma autodidacta, me gusta conocer gente nueva y ampliar mis conocimientos de Programacion.</h3>
+<h3 aling= "center">Hola! Mi nombre es Manuel Sepulveda soy una persona que trabaja de forma autodidacta, me gusta trabajar, estudiar y ampliar mis conocimientos de Programacion.</h3>
 
+
+</div>
+
+
+<div>
+<a href ="https://www.facebook.com/manuel.sepulveda.1840" targert="_blank"> 
+<img alt="Static Badge" src="https://img.shields.io/badge/:badgeContent" alt= "Facebook "
+/>
+</a>
 
 </div>
 
