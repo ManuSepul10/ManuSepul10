@@ -14,6 +14,13 @@ alt= "Facebook"/>
 
 
 </a>
+<div>
+<a href ="https://www.linkedin.com/in/manuel-sep%C3%BAlveda-14b164205/" targert= "_blank"> 
+<img src="https://img.shields.io/badge/massage?style=social&logo=paypal&logoColor=Red&label=Brounw&labelColor=White&color=Blue&cacheSeconds=1"
+alt= "Linkedin"/>
+
+
+</a>
 
 </div>
 
