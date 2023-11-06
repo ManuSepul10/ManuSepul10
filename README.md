@@ -30,7 +30,7 @@ alt= "Facebok"/>
 ---
 
 
-Here are some ideas to get you started:
+##ABOUT ME:
 
 - 🔭 I recently finished my studies in Argentina programa
 - 🌱 I’m currently learning 
