@@ -36,3 +36,11 @@ alt= "Facebok"/>
 - 🌱 I’m currently learning 
 - ⚡ contact me at: **sepulvedamanuel501@gmail.com**
 
+---
+
+<div aling="left"> 
+<h3> Lenguages and Tools:</h3>
+
+</div>
+
+
