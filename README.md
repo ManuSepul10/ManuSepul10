@@ -43,8 +43,8 @@ alt= "Facebok"/>
 
 <div>
 <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title ="JAVA" alt="JAVA"
-widht= "10" heigth="10"/>&nbsp;
+widht= "10" height="10"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-plain.svg" title ="PYTHON" alt="PYTHON"
-widht= "20" heigth="20"/>&nbsp;
+widht= "20" height="20"/>&nbsp;
 </div>
 </div>
