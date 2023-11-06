@@ -1,4 +1,10 @@
-### Hi there 👋
+<div
+
+<h1 aling = "center"> Hi Im , Manuel </h1>
+<h3 aling= "center">Hola! Mi nombre es Manuel Sepulveda soy una persona que trabaja de forma autodidacta, me gusta conocer gente nueva y ampliar mis conocimientos de Programacion.</h3>
+
+
+</div>
 
 <!--
 **ManuSepul10/ManuSepul10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
