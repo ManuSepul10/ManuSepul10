@@ -9,7 +9,7 @@
 
 <div>
 <a href ="https://www.facebook.com/manuel.sepulveda.1840" targert= "_blank"> 
-<img alt="Static Badge" src="https://img.shields.io/badge/Facebook?style=Cuadrado&logo=Facebook&logoColor=Blue&label=White&labelColor=White&color=Blue&cacheSeconds=1"
+<img src="https://img.shields.io/badge/massage?style=social&logo=paypal&logoColor=Blue&label=White&labelColor=White&color=Blue&cacheSeconds=1"
 alt= "Facebook"/>
 
 
