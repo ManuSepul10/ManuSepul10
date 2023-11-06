@@ -20,9 +20,12 @@ alt= "Facebok"/>
 
 <!--alt= "Linkedin"/> -->
 </a>
-</div>
+<a href ="https://www.instagram.com/manuelsepulveda01/" targert= "_blank"> 
+<img alt="Linkedin" src="https://img.shields.io/badge/Instagram-red">
 
-<!--
+<!--alt= "Linkedin"/> -->
+</a>
+</div>
 **ManuSepul10/ManuSepul10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
