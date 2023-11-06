@@ -15,12 +15,15 @@ alt= "Facebook"/>
 
 </a>
 
+
+</div>
+
+<div>
 <a href ="https://www.linkedin.com/in/manuel-sep%C3%BAlveda-14b164205/" targert= "_blank"> 
 <img alt="Linkedin" src="https://img.shields.io/badge/dynamic/json">
 
 <!--alt= "Linkedin"/> -->
 </a>
-
 </div>
 
 <!--
