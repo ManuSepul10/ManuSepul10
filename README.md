@@ -9,14 +9,14 @@
 
 <div>
 <a href ="https://www.facebook.com/manuel.sepulveda.1840" targert= "_blank"> 
-<img alt="Static Badge" src="https://img.shields.io/badge/Facebook"
+<img alt="Static Badge" src="https://img.shields.io/badge/Facebook-blue"
 alt= "Facebok"/>
 
 
 </a>
 
 <a href ="https://www.linkedin.com/in/manuel-sep%C3%BAlveda-14b164205/" targert= "_blank"> 
-<img alt="Linkedin" src="https://img.shields.io/badge/dynamic/json">
+<img alt="Linkedin" src="https://img.shields.io/badge/Linkedin-black">
 
 <!--alt= "Linkedin"/> -->
 </a>
