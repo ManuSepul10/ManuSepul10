@@ -10,15 +10,11 @@
 <div>
 <a href ="https://www.facebook.com/manuel.sepulveda.1840" targert= "_blank"> 
 <img src="https://img.shields.io/badge/massage?style=social&logo=paypal&logoColor=Blue&label=White&labelColor=White&color=Blue&cacheSeconds=1"
-alt= "hoplak"/>
+alt= "Facebok"/>
 
 
 </a>
 
-
-</div>
-
-<div>
 <a href ="https://www.linkedin.com/in/manuel-sep%C3%BAlveda-14b164205/" targert= "_blank"> 
 <img alt="Linkedin" src="https://img.shields.io/badge/dynamic/json">
 
