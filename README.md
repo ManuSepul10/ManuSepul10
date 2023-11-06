@@ -35,4 +35,4 @@ alt= "Facebok"/>
 - 🔭 I recently finished my studies in Argentina programa
 - 🌱 I’m currently learning 
 - ⚡ contact me at: **sepulvedamanuel501@gmail.com**
--->
+
