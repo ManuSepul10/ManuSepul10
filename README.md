@@ -40,8 +40,11 @@ alt= "Facebok"/>
 
 <div aling="left"> 
 <h3> Lenguages and Tools:</h3>
-<img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title ="JAVA" alt="Java"
+
+<div>
+<img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title ="JAVA" alt="JAVA"
+widht= "10" heigth="10"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title ="PYTHON" alt="PYTHON"
 widht= "10" heigth="10"/>&nbsp;
 </div>
-
-
+</div>
