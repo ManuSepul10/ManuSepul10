@@ -44,7 +44,7 @@ alt= "Facebok"/>
 <div>
 <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title ="JAVA" alt="JAVA"
 widht= "10" heigth="10"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title ="PYTHON" alt="PYTHON"
+<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-plain.svg" title ="PYTHON" alt="PYTHON"
 widht= "20" heigth="20"/>&nbsp;
 </div>
 </div>
