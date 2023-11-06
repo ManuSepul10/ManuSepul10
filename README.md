@@ -10,7 +10,7 @@
 <div>
 <a href ="https://www.facebook.com/manuel.sepulveda.1840" targert= "_blank"> 
 <img src="https://img.shields.io/badge/massage?style=social&logo=paypal&logoColor=Blue&label=White&labelColor=White&color=Blue&cacheSeconds=1"
-alt= "Facebook"/>
+alt= "hoplak"/>
 
 
 </a>
