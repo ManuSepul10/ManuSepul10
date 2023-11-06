@@ -16,7 +16,7 @@ alt= "Facebook"/>
 </a>
 
 <a href ="https://www.linkedin.com/in/manuel-sep%C3%BAlveda-14b164205/" targert= "_blank"> 
-<img alt="Dynamic JSON Badge" src="https://img.shields.io/badge/dynamic/json">
+<img alt="Linkedin" src="https://img.shields.io/badge/dynamic/json">
 
 <!--alt= "Linkedin"/> -->
 </a>
