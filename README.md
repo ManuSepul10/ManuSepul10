@@ -33,6 +33,7 @@ alt= "Facebok"/>
 ##ABOUT ME:
 
 - 🔭 I recently finished my studies in Argentina programa
+- And Software Development Technician Student.
 - 🌱 I’m currently learning 
 - ⚡ contact me at: **sepulvedamanuel501@gmail.com**
 
