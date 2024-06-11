@@ -1,7 +1,7 @@
 <div
 
-<h1 aling = "center"> Hi Im , Manuel </h1>
-<h3 aling= "center">Hola! Mi nombre es Manuel Sepulveda estudio Programacion, conparto un poco de mis Proyectos aqui..</h3>
+<h1 aling = "center"> Hi Im ,{ Manuel }</h1>
+<h3 aling= "center">Hola! Mi nombre es Manuel Sepulveda estudio Programacion, comparto un poco de mis Proyectos aqui..</h3>
 
 
 </div>
